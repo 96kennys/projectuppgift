@@ -1,6 +1,6 @@
 # projectuppgift
 
-Repo för slutuppgiften i kursen Programmering 2
+Repository för slutuppgiften i kursen Programmering 2
 
 ### Krav för uppgiften
 
